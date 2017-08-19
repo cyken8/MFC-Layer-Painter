@@ -1,0 +1,39 @@
+# Microsoft Developer Studio Generated Dependency File, included by Ly.mak
+
+.\Ly.cpp : \
+	".\Ly.h"\
+	".\LyDoc.h"\
+	".\LyView.h"\
+	".\MainFrm.h"\
+	".\StdAfx.h"\
+	
+
+.\Ly.rc : \
+	".\res\Ly.ico"\
+	".\res\Ly.rc2"\
+	".\res\LyDoc.ico"\
+	".\res\Toolbar.bmp"\
+	
+
+.\LyDoc.cpp : \
+	".\Ly.h"\
+	".\LyDoc.h"\
+	".\StdAfx.h"\
+	
+
+.\LyView.cpp : \
+	".\Ly.h"\
+	".\LyDoc.h"\
+	".\LyView.h"\
+	".\StdAfx.h"\
+	
+
+.\MainFrm.cpp : \
+	".\Ly.h"\
+	".\MainFrm.h"\
+	".\StdAfx.h"\
+	
+
+.\StdAfx.cpp : \
+	".\StdAfx.h"\
+	
